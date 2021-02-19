@@ -1,0 +1,1 @@
+$s_content .= '<img class="image_mh" src="'.get_field('profile-image').'">';
